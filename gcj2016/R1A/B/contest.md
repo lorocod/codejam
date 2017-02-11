@@ -111,19 +111,19 @@ It is guaranteed that a unique valid answer exists.<br>
 <p>
 In the sample case, the arrangement must be either this:
 </p>
-<code>
+
 1 2 3<br>
 2 3 4<br>
 3 5 6<br>
-</code>
+
 <p>
 or this:
 </p>
-<code>
+
 1 2 3<br>
 2 3 5<br>
 3 4 6<br>
-</code>
+
 <p>
 In either case, the missing list is <code>3 4 6</code>.
 </p>
