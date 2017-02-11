@@ -1,6 +1,4 @@
-<h3 id="dsb-problem-title-area">
- <span><span style="color:#666">Problem A.</span> The Last Word</span>
-</h3>
+### Problem A. The Last Word
 
 ### Problem
 
